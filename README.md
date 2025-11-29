@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 # Sup!
-👨‍💻 Luka | 14 y.o. | Ognevushka | NorthLightning  
+👨‍💻 Luka | 14 y.o. | NorthLightning  
 🛠️ Full-stack enthusiast | Exploring new tech every day  
 🐍 7+ years in Python, in SciPy from 2025  
 🌐 Other languages: C++, Java, TS  
@@ -17,6 +17,6 @@
 #### ( CAN BE OUTDATED )
 
 ## Contact Me
-[✉️ Email](mailto:ognevushka.scratcher@gmail.com) (not recommended)  
-[![](telegram.png) Telegram](https://t.me/ognevush_ka)  
+[✉️ Email](mailto:luka.maidanov@gmail.com) (not recommended)  
+[![](telegram.png) Telegram](https://t.me/l3ssthan2)  
 [![](discord.png) Discord](https://discord.com/users/1248739833258578101)
