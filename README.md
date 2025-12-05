@@ -7,12 +7,12 @@
 🌐 Other languages: C++, Java, TS  
 🤝 Open to collaboration  
 🌎 United States  
-🕸️ [My site](https://ognevushka.github.io)
+🕸️ [My site](https://deadbytesus.github.io)
   
 # Stats?
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ognevushka&show_icons=true&theme=dark&icon_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ognevushka&layout=donut&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=deadbytesus&show_icons=true&theme=dark&icon_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadbytesus&layout=donut&theme=dark)
 
 #### ( CAN BE OUTDATED )
 
