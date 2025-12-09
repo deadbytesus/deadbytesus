@@ -9,7 +9,7 @@
   
 # Stats?
 
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=deadbytesus&screen_effect=true&theme=crt&include_all_commits=true)
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=deadbytesus&screen_effect=true&theme=crt&include_all_commits=true" />
 
 #### ( CAN BE OUTDATED )
 
