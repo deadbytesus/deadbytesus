@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - run: curl 'https://pixel-profile.vercel.app/api/github-stats?username=deadbytesus&screen_effect=true&theme=crt&include_all_commits=true' -o res/stats.png
+    - run: mkdir -p res
+    - run: curl -L 'https://pixel-profile.vercel.app/api/github-stats?username=deadbytesus&screen_effect=true&theme=crt&include_all_commits=true' -o res/stats.png
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: Update stats
