@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.jpg)
 
 <div align="center">
 
@@ -9,14 +9,14 @@
 
 
 
-# Sup! I'm Luka, aka DeadBytes
+# Heeyyy! I'm Luka, aka DeadBytes
 
 <div align="center">
 
 ### Here's some about me:
 
 Full-stack enthusiast.  
-Top skills: **Python, Backend, Design**  
+Top skills: **Python, Kotlin, Rust, Backend, Design**  
 Always open to collaboration!
 
 </div>
@@ -34,6 +34,8 @@ Always open to collaboration!
 <div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=nix,ae,ps,ai,blender,cpp,html,css,js,ts,py,go,kotlin,docker,electron,nodejs,nuxtjs,git&perline=6)](https://skillicons.dev)
+
+& more....
 
 </div>
 
