@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+<img src="banner.jpg" width="100%">
 
 <div align="center">
 
