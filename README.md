@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/deadbytesus?style=for-the-badge&logo=github&logoColor=333333&color=ffffff&labelColor=f5f5f5)](https://github.com/deadbytesus?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/deadbytesus?style=for-the-badge&logo=github&logoColor=333333&color=ffffff&labelColor=f5f5f5)](https://github.com/deadbytesus?tab-followers)
+[![Followers](https://img.shields.io/github/followers/deadbytesus?style=for-the-badge&logo=github&logoColor=333333&color=ffffff&labelColor=f5f5f5)](https://github.com/deadbytesus?tab=followers)
 
 </div>
 
