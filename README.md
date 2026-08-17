@@ -7,7 +7,7 @@
 
 </div>
 
-# Heeyyy! I'm Luka, aka DeadBytes
+# Haii! I'm Luka, aka DeadBytes
 
 <div align="center">
 
